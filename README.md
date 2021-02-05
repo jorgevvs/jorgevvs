@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**jorgevvs/jorgevvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+I'm Jorge Castro aka Jorgevvs. I'm 18 years old, currently coursing Computer Engineering at IFPB-CG<br/>
+Knowledge at algorythms with Python and C, learning Front End development with HTML, CSS and JS<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: [linkedin.com/in/jorgevvs](https://www.linkedin.com/in/jorgevvs)<br/>
+Email para contato: jorgevinicius9@gmail.com<br/>
+
+Linguagens:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> &nbsp;
+
+Aprendendo:
+
+<img src="https://camo.githubusercontent.com/3a8ad86d67fb40ee7b67bcd00709116fa1eb808d6eec46c498016b2179d5c757/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d4244335a47694779394d732f57754a64594d62536833492f41414141414141435072632f6a6550436b2d4241585f67335f4245443931705f7a46677144424a346c525f4a51434c63424741732f73313630302f6a7570797465722e706e67" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="imagem" width="50"> &nbsp;
