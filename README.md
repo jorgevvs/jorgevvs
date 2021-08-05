@@ -11,15 +11,18 @@ Email para contato: jorgevinicius9@gmail.com<br/>
 Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="50"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="imagem" width="50"> &nbsp;
 
 Learning:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="imagem" width="70"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="50"> &nbsp;
+<img src="https://miro.medium.com/max/600/1*OxrVa522YUsNX36ENw6sNw.png" alt="imagem" width="50"> &nbsp;
+<img src="https://www.gstatic.com/devrel-devsite/prod/v0089c83aa8227c3439bf2708c0795dd13db533711d44eb626e640152d9fdf05e/firebase/images/touchicon-180.png" alt="imagem" width="50"> &nbsp;
 
 
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgevvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgevvs&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://www.linkedin.com/in/jorgevvs/" target="_blank"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgevvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgevvs&layout=compact&langs_count=7&theme=dracula"/> </a>
+
+  
+  
 </div>
