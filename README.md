@@ -2,7 +2,7 @@
 
 <p align="center">
 
-I'm Jorge Castro aka Jorgevvs. I'm 189 years old, currently studying Bachelor's Degree on Computer Engineering at IFPB-CG<br/>
+I'm Jorge Castro aka Jorgevvs. I'm 19 years old, currently studying Bachelor's Degree on Computer Engineering at IFPB-CG<br/>
 Knowledge at front end development with React, currently learning c# dotnet.<br/>
   
 LinkedIn: [linkedin.com/in/jorgevvs](https://www.linkedin.com/in/jorgevvs)<br/>
